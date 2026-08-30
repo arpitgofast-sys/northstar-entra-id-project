@@ -1,1 +1,16 @@
+# Northstar Consulting - Governance Standard
 
+## Group creation
+Only the lab administrator can create users, groups, Administrative Units, and applications.
+
+## Global Administrator usage
+The Global Administrator account is used only for tenant setup, emergency recovery, and tasks that require full tenant permissions.
+
+## Daily work
+After Day 5, normal daily work and testing will be done using a separate non-admin account.
+
+## Data rule
+This lab uses fictional users and fictional data only. No office tenant, company data, real passwords, or secrets will be used.
+
+## Documentation rule
+Every important configuration change will be documented and supported by a screenshot, export, or test result.
